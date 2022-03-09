@@ -1787,7 +1787,7 @@ Game.Launch=function()
 			var str2=//prefs
 			(Game.prefs.particles?'1':'0')+
 			(Game.prefs.numbers?'1':'0')+
-			(Game.prefs.autosave?'1':'0')+
+			(Game.prefs.autosave?'0.25':'0')+
 			(Game.prefs.autoupdate?'1':'0')+
 			(Game.prefs.milk?'1':'0')+
 			(Game.prefs.fancy?'1':'0')+
