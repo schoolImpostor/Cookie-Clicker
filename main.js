@@ -1286,7 +1286,7 @@ Game.Launch=function()
 		{
 			Game.prefs.particles=1;//particle effects : falling cookies etc
 			Game.prefs.numbers=1;//numbers that pop up when clicking the cookie
-			Game.prefs.autosave=0.25;//save the game every minute or so
+			Game.prefs.autosave=1;//save the game every minute or so
 			Game.prefs.autoupdate=1;//send an AJAX request to the server every 30 minutes (note : ignored)
 			Game.prefs.milk=1;//display milk
 			Game.prefs.fancy=1;//CSS shadow effects (might be heavy on some browsers)
